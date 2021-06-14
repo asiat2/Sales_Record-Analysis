@@ -13,5 +13,5 @@ http://eforexcel.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sale
 ### 5.What are the relationship between revenue and profit by country
 ### 6.Each year profit by products
 ### 7.What are the relationship between revenue and profit by products
-### 8.Which product are the most selling and why its?
+### 8.Which product are the most selling and why isit?
 ### 9.What is the overall QoQ sales?
